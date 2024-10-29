@@ -35,19 +35,19 @@
 
 ### `Archives`
 <div>
-  <img align="center" src="" width="30" />
+<!--   <img align="center" src="" width="30" /> -->
   <b>Pokedex</b> : 포켓몬 퀴즈 및 도감 서비스 ( <a href="">repo</a> / <a href="">service</a> )
 </div>
 <div>
-  <img align="center" src="" width="30" />
+<!--   <img align="center" src="" width="30" /> -->
   <a><b>LuckyWiki</b> : 친구들이 만들어 주는 내 위키 서비스 ( <a href="https://github.com/prgrms-fe-devcourse/FEDC4_Angola_NaYoung">repo</a> / <a href="https://fedc4-angola.vercel.app/">service</a> )
 </div>
 <div>
-  <img align="center" src="" width="30" />
+<!--   <img align="center" src="" width="30" /> -->
   <a><b>I Made It</b> : 운동 루틴 관리 서비스 ( <a href="">repo</a> / <a href="">service</a> )
 </div>
 <div>
-  <img align="center" src="" width="30" />
+<!--   <img align="center" src="" width="30" /> -->
   <a><b>Give Me Five</b> : 이색 체험 제공 플랫폼 ( <a href="">repo</a> / <a href="">service</a> )
 </div>
 <br/>
