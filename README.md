@@ -40,6 +40,9 @@
 </div>
 <div>
 <!--   <img align="center" src="" width="30" /> -->
+  <a><b>Give Me Five</b> : 이색 체험 제공 플랫폼 ( <a href="https://github.com/codeit-final-project-team3/GiveMeFive">repo</a> / <a href="">service</a> )
+</div>
+<!--   <img align="center" src="" width="30" /> -->
   <a><b>LuckyWiki</b> : 친구들이 만들어 주는 내 위키 서비스 ( <a href="https://github.com/prgrms-fe-devcourse/FEDC4_Angola_NaYoung">repo</a> / <a href="https://fedc4-angola.vercel.app/">service</a> )
 </div>
 <div>
@@ -47,9 +50,7 @@
   <a><b>Routiful</b> : 운동 루틴 관리 서비스 ( <a href="https://github.com/itscold96/routiful">repo</a> / <a href="">service</a> )
 </div>
 <div>
-<!--   <img align="center" src="" width="30" /> -->
-  <a><b>Give Me Five</b> : 이색 체험 제공 플랫폼 ( <a href="https://github.com/codeit-final-project-team3/GiveMeFive">repo</a> / <a href="">service</a> )
-</div>
+
 <br/>
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=itscold96)](https://velog.io/@itscold96) 
