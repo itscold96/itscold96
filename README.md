@@ -5,7 +5,7 @@
   
   <a href="https://zealous-drop-37e.notion.site/Portfolio-e853aaacc13042ceb285eb9ae7ea7a2b?pvs=4" target="_blank">
     <img align="center" src="https://github.com/user-attachments/assets/f9666928-0b4a-4232-9c4f-462ed6c4347f" width="32" />
-    Notion Portfolio
+     Notion Portfolio
   </a>
 </div>
 <!-- <div>
@@ -55,5 +55,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=itscold96)](https://velog.io/@itscold96) 
 
 <br/>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitscold96&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
