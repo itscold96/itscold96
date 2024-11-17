@@ -36,7 +36,7 @@
 ### `Archives`
 <div>
 <!--   <img align="center" src="" width="30" /> -->
-  <b>Pokedex</b> : 포켓몬 퀴즈 및 도감 서비스 ( <a href="https://github.com/Covengers-Pokedex/pokedex">repo</a> / <a href="https://pokedex-delta-ivory.vercel.app/">service</a> )
+  <b>Poke-Sensei</b> : 포켓몬 퀴즈 및 도감 서비스 ( <a href="https://github.com/Covengers-Pokedex/poke-sensei">repo</a> / <a href="https://poke-sensei.vercel.app//">service</a> )
 </div>
 <div>
 <!--   <img align="center" src="" width="30" /> -->
