@@ -35,20 +35,19 @@
 
 ### `Archives`
 <div>
-<!--   <img align="center" src="" width="30" /> -->
-  <b>Poke-Sensei</b> : 포켓몬 퀴즈 및 도감 서비스 ( <a href="https://github.com/Covengers-Pokedex/poke-sensei">repo</a> / <a href="https://poke-sensei.vercel.app//">service</a> )
+  <img align="center" src='https://github.com/user-attachments/assets/2d2abfc1-8ecf-470c-ab70-af45813132f3' width="25"/>
+  <b>Poke-Sensei</b> : 포켓몬 퀴즈 및 도감 서비스 ( <a href="https://github.com/Covengers-Pokedex/poke-sensei">git repo</a> / <a href="https://poke-sensei.vercel.app//">service</a> )
 </div>
 <div>
-<!--   <img align="center" src="" width="30" /> -->
-  <a><b>Give Me Five</b> : 이색 체험 제공 플랫폼 ( <a href="https://github.com/codeit-final-project-team3/GiveMeFive">repo</a> / <a href="https://give-me-five.vercel.app/">service</a> )
+  <img align="center" src="https://github.com/user-attachments/assets/cbd60d5b-89c9-4474-89d1-95a04da31823" width="25" />
+  <a><b>Routiful</b> : 운동 루틴 관리 서비스 ( <a href="https://github.com/itscold96/routiful">git repo</a> / <a href="https://routiful.vercel.app/">service</a> )
 </div>
 <div>
-<!--   <img align="center" src="" width="30" /> -->
-  <a><b>Routiful</b> : 운동 루틴 관리 서비스 ( <a href="https://github.com/itscold96/routiful">repo</a> / <a href="https://routiful.vercel.app/">service</a> )
+  <img align="center" src="https://github.com/user-attachments/assets/6c92f69d-90ae-47c8-a5df-bf5d10bf55c5" width="25" />
+  <a><b>Give Me Five</b> : 이색 체험 제공 플랫폼 ( <a href="https://github.com/codeit-final-project-team3/GiveMeFive">git repo</a> / <a href="https://give-me-five.vercel.app/">service</a> )
 </div>
 <div>
-<!--   <img align="center" src="" width="30" /> -->
-  <a><b>LuckyWiki</b> : 친구들이 만들어 주는 내 위키 서비스 ( <a href="https://github.com/prgrms-fe-devcourse/FEDC4_Angola_NaYoung">repo</a> / <a href="https://luckywiki.vercel.app/landing">service</a> )
+  <a><b>🍀 LuckyWiki</b> : 친구들이 만들어 주는 내 위키 서비스 ( <a href="https://github.com/FE08-07-projectWiki/LuckyWiki">git repo</a> / <a href="https://luckywiki.vercel.app/landing">service</a> )
 </div>
 <div>
 <br/>
