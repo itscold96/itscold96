@@ -26,6 +26,8 @@
 <br/>
 <sub>
 <b>JavaScript | TypeScript | ReactJS | NextJS</b> <br/>
+<b>Zustand | Tanstack-Query</b> <br/>
+<b>SCSS | Styled-Components | Tailwind</b> <br/>
 <b>Github | Notion</b>
 </sub>
   
